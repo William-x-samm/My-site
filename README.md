@@ -3,7 +3,8 @@
 There's nothing here that's good for you 
 </P>
 
-```php
-> PHP
-> Mysql
+```bash
+> Html-5
+> Css-3
+> JavaScript
 ```
